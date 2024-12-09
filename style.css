@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: #FAFAFA;
+}
+
+nav {
+    display: flex;
+    width: 980px;
+    height: 48px;
+    padding: 12px 80px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin: auto 20px;
+    height: 22px;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+#nextmove {
+    margin-right: auto;
+    width: 146px;
+    height: 21px;
+    padding: 13.5px;
+}
+
+#contactus {
+    margin-left: auto;
+    padding: 8px 16px;
+    border: 1px solid #AC00FF;
+    border-radius: 8px;
+    font-size: 14px;
+    font-family: Inter;
+    color: #AC00FF;
+    font-weight: 500;
+    width: auto 73px;
+    height: auto 17px;
+    cursor: pointer;
+}
+
+#container {
+    margin: 64px 0 0 214px
+}
+
+h1 {
+    width: 720px;
+    height: 148px;
+    color: #323232;
+    font-family: Impact;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 74px;
+}
+
+p {
+    margin: 24px 0;
+    align-self: stretch;
+    color: #323232;
+    font-family: "Inria Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 841px;
+    height: 64px;
+    position: relative;
+}
+
+#joinnow {
+    width: 204px;
+    height: auto 22px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #5C3BAE;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer;
+}
+
+#group {
+    margin-left: 24px;
+    margin-right: 12px;
+}
+
+#groups {
+    display: flex;
+}
+
+a {
+    color: #4D3491;
+    width: 150px;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-position: from-font;
+    margin: auto 0;
+    position: relative;
+}
+
+#bankcards {
+    margin-left: 610px;
+    margin-top: -139px;
+    background-image: #FAFAFA;
+    width: 1293px;
+    height: 761px;
+}
+
